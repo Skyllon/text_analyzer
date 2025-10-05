@@ -1,0 +1,17 @@
+/analyzer
+/*.o
+/output/
+/deps/
+
+# N/Vim
+*.tmp
+*.swp
+*.swo
+
+# VsCode
+.vscode/
+.idea/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
